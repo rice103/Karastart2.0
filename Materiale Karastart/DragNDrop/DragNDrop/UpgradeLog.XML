@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DragNDrop">
+</Property><Property Name="File di soluzione" Value="C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\DragNDrop.sln">
+</Property><Property Name="Date" Value="domenica 6 luglio 2014">
+</Property><Property Name="Time" Value="23:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DragNDrop.sln" Description="File salvato come C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop.sln">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\DragNDrop.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\DragNDrop.csproj">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\DragNDrop.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\DragNDrop.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\DragNDrop.Designer.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\DragNDrop.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\Program.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\Program.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\Properties\AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\Properties\Resources.Designer.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\Properties\Settings.Designer.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\Util.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\Util.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\Properties\Settings.settings" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\DragNDrop.resx" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\DragNDrop.resx">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\Properties\Resources.resx" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\Backup\DragNDrop\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\DragNDrop.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="DragNDrop" Source="DragNDrop\DragNDrop.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DragNDrop.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="DragNDrop.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop\DragNDrop.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

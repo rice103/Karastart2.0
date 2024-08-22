@@ -1,0 +1,8 @@
+D:\Documenti\SharpDevelop Projects\GobboManuale\GobboManuale\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documenti\SharpDevelop Projects\GobboManuale\GobboManuale\obj\x86\Debug\GobboManuale.MainForm.resources
+D:\Documenti\SharpDevelop Projects\GobboManuale\GobboManuale\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documenti\SharpDevelop Projects\GobboManuale\GobboManuale\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documenti\SharpDevelop Projects\GobboManuale\GobboManuale\bin\Debug\GobboManuale.exe
+D:\Documenti\SharpDevelop Projects\GobboManuale\GobboManuale\bin\Debug\GobboManuale.pdb
+D:\Documenti\SharpDevelop Projects\GobboManuale\GobboManuale\obj\x86\Debug\GobboManuale.exe
+D:\Documenti\SharpDevelop Projects\GobboManuale\GobboManuale\obj\x86\Debug\GobboManuale.pdb

@@ -1,0 +1,26 @@
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\bin\Debug\NAudio.XML
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\bin\Debug\NAudio.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\bin\Debug\NAudio.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\ResolveAssemblyReference.cache
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.Fader.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.PanSlider.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.Pot.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.VolumeSlider.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.WaveViewer.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Utils.ProgressLog.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\ResGen.read.1.tlog
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\ResGen.write.1.tlog
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.pdb
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\bin\Debug\NAudio.XML
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\bin\Debug\NAudio.dll
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\bin\Debug\NAudio.pdb
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.Fader.resources
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.PanSlider.resources
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.Pot.resources
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.VolumeSlider.resources
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Gui.WaveViewer.resources
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.Utils.ProgressLog.resources
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.csproj.GenerateResource.Cache
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.dll
+F:\Progetti sw\Karastart 2.0\naudio\NAudio\obj\Debug\NAudio.pdb

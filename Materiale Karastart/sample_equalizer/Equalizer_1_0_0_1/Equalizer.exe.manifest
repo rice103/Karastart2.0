@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="Equalizer.exe" version="1.0.0.1" publicKeyToken="3ad44477007944ef" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="App.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Equalizer" version="1.0.2791.25547" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Equalizer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.VCProX.dll" size="77824">
+      <assemblyIdentity name="AxInterop.VCProX" version="3.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>DgDX2xfKNk714sIB9ZusZxmWqXE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Equalizer.exe" size="49152">
+      <assemblyIdentity name="Equalizer" version="1.0.2791.25547" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>kbEYH7ahdqZ/KElynrG6u+fAgas=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.VCProX.dll" size="94208">
+      <assemblyIdentity name="Interop.VCProX" version="3.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tj9ZSYqepaF4wCFztq6H2UIf0Ss=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="16384">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>umKzfUIzuIlI/cL/7QjzyC6GJ/E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="App.ico" size="1078">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GM7OUb4teOfGVJg9lxgqFUWHPYk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="VCProX.ocx" asmv2:size="531968" xmlns="urn:schemas-microsoft-com:asm.v1">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dKORrR3okjaCQTB75hYx1Ydu7Ak=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" version="3.0" helpdir="" resourceid="0" flags="CONTROL,HASDISKIMAGE" />
+    <comClass clsid="{4745e3c1-f3c1-4195-bae6-7fa575082009}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproWaveInDeviceX" description="vcproWaveInDeviceX" />
+    <comClass clsid="{36a5682a-e5d8-4b55-9a05-7e3fa47da700}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproWaveOutDeviceX" description="vcproWaveOutDeviceX" />
+    <comClass clsid="{7916e1af-11dc-45f0-9d8e-b973b495a62a}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproWaveCodecDeviceX" description="vcproWaveCodecDeviceX" />
+    <comClass clsid="{1a3e6b03-937a-434a-927c-77b7e129fb3f}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproWaveMixerX" description="vcproWaveMixerX" />
+    <comClass clsid="{8c6dd5c2-1696-4ceb-8851-bdf74ee27625}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproWaveResamplerX" description="vcproWaveResamplerX" />
+    <comClass clsid="{a46a6925-c693-47e0-ba6c-1fddb4ac8656}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproIpBroadcastServerX" description="vcproIpBroadcastServerX" />
+    <comClass clsid="{4eeccba3-27f2-4ea3-8ef7-14b42f470806}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproIpBroadcastClientX" description="vcproIpBroadcastClientX" />
+    <comClass clsid="{b1185cf4-f470-49f6-b4b6-b6e55d2c960a}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproMediaGateX" description="vcproMediaGateX" />
+    <comClass clsid="{49dce2e5-cae3-4ef5-8236-eddade8e1188}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproVolumeControlX" description="vcproVolumeControlX" />
+    <comClass clsid="{67148200-f959-48ca-89b2-5337cc2652d2}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproWaveRiffX" description="vcproWaveRiffX" />
+    <comClass clsid="{81dd840a-4882-4b85-89e0-438ad8bb2dd0}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproIpServerX" description="vcproIpServerX" />
+    <comClass clsid="{c684787e-ef9c-461c-b77f-81ee6d52e318}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproIpClientX" description="vcproIpClientX" />
+    <comClass clsid="{06da0807-31ac-4fd9-bb01-a6e6f765e70b}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproDisplayBandsX" description="vcproDisplayBandsX" />
+    <comClass clsid="{f5f20b13-717c-4536-822f-260cae8385e6}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproConferenceServerX" description="vcproConferenceServerX" />
+    <comClass clsid="{ee356af0-6920-4a6d-b11f-08a82efbfd54}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproEqualizerX" description="vcproEqualizerX" />
+    <comClass clsid="{db895766-928b-46f5-af67-1137668fc156}" threadingModel="Apartment" tlbid="{d01bd6be-456a-4078-aebf-3acb85261fa6}" progid="VCProX.vcproWaveMultiBandSplitterX" description="vcproWaveMultiBandSplitterX" />
+  </file>
+<publisherIdentity name="CN=LUCKY\Serge" issuerKeyHash="fe87d56fd80133945344d306a3da8a85e1ec030c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>P45mTWvqiIbTaLvdvkz6cvx688g=</DigestValue></Reference></SignedInfo><SignatureValue>rWtWjd6nMQTJGPEiHfJoW63dw3ks3IWfnwZwA29otkTWQoRuHokYftRdJ/gy77rEKYqaA4fjrsURHvsxKodJAvoeqKMwlg891eWpyYenilH7hddbj0T0Il5vTLyEXmRWJieHx37HahuXjLzHtmdzfeUn//cbbQj3w8Vtj3U0qMc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v8ANMz99qwjhowtW+eEzd982l/TP96wJHnZvw2b6YvobTI196K5dwerdHrE9bdJcZCb/VySFYQQ9/wOMv15/DTEvz0KeXR1KhgMAeFZo1WBtOKZBcjEdYX8Uz75qYdSL9z1lILpLA3npluhDavsXgigDNtaqqH2X6X7LPn40HG0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c8f37afc72fa4cbeddbb68d38688ea6b4d668e3f" Description="" Url=""><as:assemblyIdentity name="Equalizer.exe" version="1.0.0.1" publicKeyToken="3ad44477007944ef" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LUCKY\Serge</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>08CF7Bm8menKzG2QDUxEXadiG1U=</DigestValue></Reference></SignedInfo><SignatureValue>YiCKUu7cY46zPB5/Brcw2BtJUsdIpVsuTFv6lNkObp9i0O3gghX1uigU37K522pSrWLMQtFUyzLeH2iBuspcG8JTe6Ptf4u0Fh9Oqum6kzxyrShRowN8Nk3GycXsr6A2xWE2PTMUA5jIpe+Y7GJuDgVN6f6h8Kp6fI+ZVLAtSig=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v8ANMz99qwjhowtW+eEzd982l/TP96wJHnZvw2b6YvobTI196K5dwerdHrE9bdJcZCb/VySFYQQ9/wOMv15/DTEvz0KeXR1KhgMAeFZo1WBtOKZBcjEdYX8Uz75qYdSL9z1lILpLA3npluhDavsXgigDNtaqqH2X6X7LPn40HG0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASqgAwIBAgIQ3TiIKXIpuY5O4ZpsZxxLHDAJBgUrDgMCHQUAMCExHzAdBgNVBAMeFgBMAFUAQwBLAFkAXABTAGUAcgBnAGUwHhcNMDcwODIzMTIwNzEzWhcNMDgwODIyMTgwNzEzWjAhMR8wHQYDVQQDHhYATABVAEMASwBZAFwAUwBlAHIAZwBlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/wA0zP32rCOGjC1b54TN33zaX9M/3rAkedm/DZvpi+htMjX3orl3B6t0esT1t0lxkJv9XJIVhBD3/A4y/Xn8NMS/PQp5dHUqGAwB4VmjVYG04pkFyMR1hfxTPvmph1Iv3PWUguksDeemW6ENq+xeCKAM21qqofZfpfss+fjQcbQIDAQABMAkGBSsOAwIdBQADgYEASDuFG5WuFa9xNVN11Rw25g0Uwr3yGb9tRw+5MMk2CA66MpYR5asZCd4EoKKAMaE5UbJccbRaGkKpQ3U02m2M5Seg66axW8yFquWAmgjQXQM/xcc9aBGq22nx7h4TAj9UUZAq5e1fPBWkupzHRRaFHixCzOgjI8+YBBEu6HD+1ic=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

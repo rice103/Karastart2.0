@@ -1,0 +1,510 @@
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csprojResolveAssemblyReference.cache
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csproj.GenerateResource.Cache
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\App.config
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\App.config
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csprojResolveAssemblyReference.cache
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+C:\Users\PC12\Downloads\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csproj.GenerateResource.Cache
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\App.config
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csprojResolveAssemblyReference.cache
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csproj.GenerateResource.Cache
+D:\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+D:\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+D:\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+D:\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+D:\Karastart 2.0\Karastart 2\bin\Debug\App.config
+D:\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+D:\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+D:\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+D:\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+D:\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+D:\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+D:\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+D:\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+D:\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+D:\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+D:\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb
+D:\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csprojResolveAssemblyReference.cache
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+D:\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csproj.GenerateResource.Cache
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\App.config
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csprojResolveAssemblyReference.cache
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csproj.GenerateResource.Cache
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\App.config
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\Karastart 2\bin\Debug\NAudio.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\App.config
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\NAudio.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csprojResolveAssemblyReference.cache
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csproj.GenerateResource.Cache
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.exe
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Default\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Small Glass\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ice\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Ignition\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\ishom\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\PiX\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Skins\Squared\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Settings.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\App.config
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\JockerSoft.Media.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\NAudio.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\Interop.DexterLib.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\DragNDrop.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\NAudio.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\NAudio.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csprojResolveAssemblyReference.cache
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.AboutBox1.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.KstForm.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MailForm.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.MainForm.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Properties.Resources.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Catcher.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.SecondScreen.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\KaraStart.Settings.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2\obj\x86\Debug\Karastart 2.csproj.GenerateResource.Cache
+C:\Users\Rice Cipriani\Dropbox\programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\KaraStart.exe.config
+C:\Users\Rice Cipriani\Dropbox\programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\md5sum.exe
+C:\Users\Rice Cipriani\Dropbox\programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\App.config
+C:\Users\Rice Cipriani\Dropbox\programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.dll
+C:\Users\Rice Cipriani\Dropbox\programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\AudioSwitch.dll
+C:\Users\Rice Cipriani\Dropbox\programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\NAudio.pdb
+C:\Users\Rice Cipriani\Dropbox\programmi fatti da me\Karastart 2.0\Karastart 2\bin\Debug\AMS.Profile.pdb

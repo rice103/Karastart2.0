@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Demo">
+</Property><Property Name="File di soluzione" Value="C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Demo.sln">
+</Property><Property Name="Date" Value="sabato 20 giugno 2015">
+</Property><Property Name="Time" Value="13:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Demo.sln" Description="File salvato come C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Demo.sln">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Demo.csproj">
+</Event><Event ErrorLevel="0" Project="Demo" Source="AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="MainForm.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="App.ico" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Demo" Source="MainForm.resx" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="Demo" Source="Demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Profile" Source="..\Profile.csproj" Description="Avviso: si sta eseguendo il backup del file di progetto in un percorso relativo diverso da quello della soluzione originale. La differenza nella gerarchia delle cartelle potrebbe creare problemi durante l'apertura o la compilazione della soluzione e del proge">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\Profile.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\Profile.csproj">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\Config.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\Config.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\Events.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\Events.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\Ini.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\Ini.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\IProfile.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\IProfile.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\Profile.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\Profile.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\Registry.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\Registry.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\Xml.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\Xml.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\XmlHelper.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Demo\Backup\Profile\XmlHelper.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="..\Profile.csproj" Description="Il file di progetto non richiede conversione.">
+</Event><Event ErrorLevel="3" Project="Profile" Source="..\Profile.csproj" Description="Conversione non necessaria">
+</Event><Event ErrorLevel="0" Project="" Source="Demo.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Demo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

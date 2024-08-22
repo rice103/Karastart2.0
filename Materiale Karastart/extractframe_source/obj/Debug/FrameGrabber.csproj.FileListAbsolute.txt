@@ -1,0 +1,7 @@
+C:\Users\Rice Cipriani\Downloads\extractframe_source\bin\Debug\JockerSoft.Media.dll
+C:\Users\Rice Cipriani\Downloads\extractframe_source\bin\Debug\JockerSoft.Media.pdb
+C:\Users\Rice Cipriani\Downloads\extractframe_source\bin\Debug\Interop.DexterLib.dll
+C:\Users\Rice Cipriani\Downloads\extractframe_source\obj\Debug\Interop.DexterLib.dll
+C:\Users\Rice Cipriani\Downloads\extractframe_source\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\Users\Rice Cipriani\Downloads\extractframe_source\obj\Debug\JockerSoft.Media.dll
+C:\Users\Rice Cipriani\Downloads\extractframe_source\obj\Debug\JockerSoft.Media.pdb

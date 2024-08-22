@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CsExamples">
+</Property><Property Name="File di soluzione" Value="C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Examples\CsExamples\CsExamples.sln">
+</Property><Property Name="Date" Value="martedì 1 luglio 2014">
+</Property><Property Name="Time" Value="18:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CsExamples.sln" Description="File salvato come C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Examples\CsExamples\Backup\CsExamples.sln">
+</Event><Event ErrorLevel="0" Project="BasicApp" Source="BasicApp\BasicApp.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Examples\CsExamples\Backup\BasicApp\BasicApp.csproj">
+</Event><Event ErrorLevel="0" Project="BasicApp" Source="BasicApp\BasicApp.csproj.user" Description="Backup del file utente di progetto creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Examples\CsExamples\Backup\BasicApp\BasicApp.csproj.user">
+</Event><Event ErrorLevel="0" Project="BasicApp" Source="BasicApp\AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Examples\CsExamples\Backup\BasicApp\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BasicApp" Source="BasicApp\MainForm.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Examples\CsExamples\Backup\BasicApp\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="BasicApp" Source="BasicApp\App.ico" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Examples\CsExamples\Backup\BasicApp\App.ico">
+</Event><Event ErrorLevel="0" Project="BasicApp" Source="BasicApp\MainForm.resx" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Examples\CsExamples\Backup\BasicApp\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="BasicApp" Source="BasicApp\BasicApp.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="BasicApp" Source="BasicApp\BasicApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CsExamples.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="CsExamples.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BasicApp" Source="BasicApp\BasicApp.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

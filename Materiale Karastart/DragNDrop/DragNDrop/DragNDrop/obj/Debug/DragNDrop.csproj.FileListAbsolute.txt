@@ -1,0 +1,7 @@
+C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\DragNDrop\bin\Debug\DragNDrop.exe
+C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\DragNDrop\bin\Debug\DragNDrop.pdb
+C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\DragNDrop\obj\Debug\DragNDrop.DragNDrop.resources
+C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\DragNDrop\obj\Debug\DragNDrop.Properties.Resources.resources
+C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\DragNDrop\obj\Debug\DragNDrop.csproj.GenerateResource.Cache
+C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\DragNDrop\obj\Debug\DragNDrop.exe
+C:\Users\Rice Cipriani\Downloads\DragNDrop\DragNDrop\DragNDrop\obj\Debug\DragNDrop.pdb

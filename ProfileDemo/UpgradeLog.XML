@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Profile">
+</Property><Property Name="File di soluzione" Value="C:\Users\Rice Cipriani\Downloads\ProfileDemo\Profile.sln">
+</Property><Property Name="Date" Value="sabato 20 giugno 2015">
+</Property><Property Name="Time" Value="13:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Profile.sln" Description="File salvato come C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\Profile.sln">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Profile.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\Profile.csproj">
+</Event><Event ErrorLevel="0" Project="Profile" Source="AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Config.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\Config.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Events.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\Events.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Ini.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\Ini.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="IProfile.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\IProfile.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Profile.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\Profile.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Registry.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\Registry.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Xml.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\Xml.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="XmlHelper.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\ProfileDemo\Backup\XmlHelper.cs">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Profile.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="Profile" Source="Profile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Profile.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Profile.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Profile" Source="Profile.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

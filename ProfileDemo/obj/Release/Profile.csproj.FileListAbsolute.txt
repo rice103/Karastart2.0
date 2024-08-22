@@ -1,0 +1,4 @@
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\bin\Release\AMS.Profile.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\bin\Release\AMS.Profile.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\obj\Release\ResolveAssemblyReference.cache
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\obj\Release\AMS.Profile.dll

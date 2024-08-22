@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DragNDrop">
+</Property><Property Name="File di soluzione" Value="C:\Users\Rice Cipriani\Downloads\DragAndDropListView_src\DragNDrop.sln">
+</Property><Property Name="Date" Value="domenica 6 luglio 2014">
+</Property><Property Name="Time" Value="22.31.39">
+</Property></Properties><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\DragAndDropListView_src\Backup\DragNDrop.csproj">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop.csproj.user" Description="Backup del file utente di progetto creato con nome C:\Users\Rice Cipriani\Downloads\DragAndDropListView_src\Backup\DragNDrop.csproj.user">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragAndDropListView_src\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragAndDropListView.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragAndDropListView_src\Backup\DragAndDropListView.cs">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragAndDropListView.resx" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\DragAndDropListView_src\Backup\DragAndDropListView.resx">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="DragNDrop" Source="DragNDrop.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DragNDrop" Source="DragNDrop.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

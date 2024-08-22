@@ -1,0 +1,156 @@
+[translation]
+title=KaraStart - karaoke player MIDI controlled
+menuStartedFile=Started File
+menuLanguage=Language
+menuSettings=Settings
+menuHelp=Help
+menuUnlock=Unlock Program
+menuExitProg=Exit
+menuAbout=About KaraStart
+menuCheck=Check update
+fileNameSelected=File name selected
+ext=ext
+BackGroundMusic=Background Music
+PlayerAndStarter=Player and Starter
+Open=Open
+InternalPlayer=Internal player
+4Mute=4 Mute
+ShowFolderInExplorer=Show folder in Explorer
+Root=Root
+Playlist=Playlist
+Explorer=Explorer
+byName=by name
+byLastMod= by last mod.
+Search=Search
+msgBoxErr= does not exist, make sure it is properly installed, or edit the the program path in settings
+msgBoxMixer=Couldn't open the mixer.
+msgBoxRestart=You have to restart KaraStart to apply changes
+msgBoxMaster=For set master volume in 'Windows Vista' or 'Windows 7' is necessary to launch a external program. When you first start, select 'no alert when the program starts' to not always see the same window
+msgBoxClone=Do you want to clone area of previous time?
+msgBoxClone1=Point mouse to top and left of repeated area and press return
+msgBoxClone2=Point mouse to lower and right of repeated area and press return
+msgBoxClone3=Pressing the right mouse button on the clone it will disappear
+msgBoxErrReading=An error has occurred while reading the file
+msgBoxSameFile=Do you want to use same file/s of previous time?
+msgBoxWithout=You selected a folder without images, please try again
+msgBoxPlaylistDefault=You can't delete 'Default' Playlist!
+msgBoxPlaylistDeleted= will be deleted, are you sure?
+msgBoxPlaylistNotExist=Playlist doesn't exist!
+msgBoxErr=An error occurred: 
+msgBoxErrWriting=An error has occurred while writing the file
+msgBox3Command=Only if you have a trial, light or full version you can control more than 3 command
+mnuAutoUpdate=Auto update
+msgBoxFileDoesntExist=File selected doesn't exist!
+
+inputBoxDur=Type file duration (mm:ss)
+InputBoxAnticipo=Type advance (seconds)
+
+StartWith=Start with
+MnuOpen=Open file
+mnuPlaylistMoveUp=Move up
+mnuPlaylistMoveDown=Move down
+mnuPlaylistDelete=Delete from Playlist
+mnuPlaylistAddDown=Add in Playlist
+mnuExplorer=Open file path
+mnuSupport=Support Karastart with a donation
+
+DiaTitle=Listen MIDI-msg or Key for command
+DiaExit=Exit
+DiaListen=Listen
+DiaCommand=Command: 
+
+MidiInDev=Select Midi IN Device
+MidiInDeleted=All command associated at a Midi message will be deleted, continue?
+MidiOutDev=Select Midi OUT Device
+
+AboutDescription=This application is designed to simplify the live performance of the composer and singer. This is a program which can launch other programs using the command line depending on the properties of each program. It can also display PDF files using dll that Adobe Reader is proprietary. All commands can be managed via MIDI commands sent from a MIDI device or can be started from your computer keyboard keys.
+AboutDisclaimer=All right reserved to Rice Cipriani. Copyrigth of icon and name to external program are reserved to the producers of the programs.
+
+UnlockTitle=Unlock KaraStart with a donation
+UnlockCode=Unlock Code
+UnlockEnter=Enter received code by email and press here
+UnlockCopy=Copy
+UnlockPaste=Paste
+
+StartedTitle=Started Files
+
+RapidTitle=Rapid Play
+RapidPlay=(Rapid play)
+
+SetRoot=Root for Explorer
+SetBack=Background music
+SetInit=Initial directory in Explorer list
+SetDirPath=Dir. path
+SetDirName=Name
+SetMIDI=MIDI command linked (format: "MIDI or Key value":parameter)
+SetMidiIN=Midi Device in:
+SetMidiOUT=Midi Device out:
+SetAlways=Always on top
+SetPosition=Position of window
+SetMainWinSize=Reset main window size
+SetPdfWinSize=Reset pdf window size
+SetPrograms=Programs
+SetNamePro=Name:
+SetPathPro=Path:
+SetIconPro=Icon file:
+SetAutoPro=Autoclone
+SetPDFAuto=Pdf AutoClone
+SetFiles=Files
+SetNameFil=Name:
+SetExtFil=Extension: ex.: mid
+SetProFil=Program linked:
+SetAddFil=Add
+SetClose=Close
+SetReset=Reset Programs and Files
+SetInputNameFOlder=Choose displayed name for this folder
+SetSubFolder=Do you also want to include the subfolders in searches?
+SetChkSub=Include subfolders
+SetLblSub=Subfolder
+SetNamFolder=Name
+SetPathFolder=Favourite folder
+
+UpErr=Error while downloading, do you try again?
+UpDown=Do you want to update Karastart?
+UpDing=Downloading
+UpDo=downloaded
+UpComplete=Karastart update is complete!
+UpLoad=Loading KaraStart...
+UpErrWhile=Error while downloading
+
+whatsnew=What's new in KaraStart
+
+
+menuCreateKst=Create combined files .kst
+kstCancFile=Delete
+kstAggiFile=Add
+kstFileExt=External file
+kstVlcExt=External VLC file
+kstVanBasco=External VanBasco file
+kstMidiInt=Internal midi file
+kstMp3Int=Internal mp3 file
+kstPdfInt=Internal pdf file
+kstChooseFile=Choose file:
+kstChooseProg=Choose external program (optional):
+kstDelay=Delay in ms:
+kstCreaKst=Create
+kstAnnullaKst=Undo
+kstFormTitle=Create combo file
+kstVlcMute=Audio mute
+kstVlcAnticipo=Start at second: 
+kstMidiInterno4Mute=Vocal track mute
+kstMidiInternoTraspose=Traspose
+kstInternoRapidPos=Posiotion in rapid list
+kstInternoRapidStart=Action:play
+kstInternoRapidLoad=Action:only load
+kstPdfInternoOffset=Offset (can be negative)
+kstPdfInternoScrollVel=Scrolling velocity
+kstPdfInternoZoom=Zoom
+kstPdfInternoLeft=Left margin
+kstErrTest=Error while testing
+KstInfoFile=More informations
+kstCmdTest=Test
+kstDurataFile=Lenght (hh:mm:ss)
+kstNomeFile=Insert name file
+kstChooseFolderKst=Choose folder where you want to save
+
+

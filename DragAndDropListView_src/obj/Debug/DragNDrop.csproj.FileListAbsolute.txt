@@ -1,0 +1,44 @@
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.DragAndDropListView.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.csproj.GenerateResource.Cache
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\ResolveAssemblyReference.cache
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.DragAndDropListView.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\GenerateResource.read.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\GenerateResource.write.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.pdb
+D:\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.dll
+D:\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.pdb
+D:\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.DragAndDropListView.resources
+D:\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.csproj.GenerateResource.Cache
+D:\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.dll
+D:\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.pdb
+D:\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.csprojResolveAssemblyReference.cache
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.csprojResolveAssemblyReference.cache
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.DragAndDropListView.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.csproj.GenerateResource.Cache
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.DragAndDropListView.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.csproj.GenerateResource.Cache
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.csprojResolveAssemblyReference.cache
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\bin\Debug\DragNDrop.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\ResolveAssemblyReference.cache
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.DragAndDropListView.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\GenerateResource.read.1.tlog
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\GenerateResource.write.1.tlog
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Debug\DragNDrop.csprojResolveAssemblyReference.cache

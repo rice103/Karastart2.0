@@ -1,0 +1,250 @@
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.CustomListView.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormOSD.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSettings.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSwitcher.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.LedBar.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.VolumeBar.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Properties.Resources.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.csproj.GenerateResource.Cache
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\back.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\meter.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\mute.png
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\skin.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Settings.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\Settings.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.CustomListView.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormOSD.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSettings.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSwitcher.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.LedBar.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.VolumeBar.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Properties.Resources.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.dll
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\back.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\meter.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\mute.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\skin.xml
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\back.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\meter.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\mute.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\skin.xml
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\back.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\meter.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\mute.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\skin.xml
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\back.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\meter.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\mute.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\skin.xml
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\back.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\meter.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\mute.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\skin.xml
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\back.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\meter.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\mute.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\skin.xml
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\back.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\meter.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\mute.png
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\skin.xml
+D:\Karastart 2.0\AudioSwitch\bin\Debug\Settings.xml
+D:\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.dll
+D:\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.pdb
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.CustomListView.resources
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormOSD.resources
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSettings.resources
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSwitcher.resources
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.LedBar.resources
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.VolumeBar.resources
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Properties.Resources.resources
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.csproj.GenerateResource.Cache
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.dll
+D:\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\back.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\meter.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\mute.png
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\skin.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Settings.xml
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.CustomListView.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormOSD.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSettings.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSwitcher.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.LedBar.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.VolumeBar.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Properties.Resources.resources
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.csproj.GenerateResource.Cache
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\back.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\meter.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\mute.png
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\skin.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Settings.xml
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.CustomListView.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormOSD.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSettings.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSwitcher.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.LedBar.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.VolumeBar.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Properties.Resources.resources
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.csproj.GenerateResource.Cache
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Default\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Small Glass\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ice\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Ignition\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\ishom\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\PiX\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\back.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\meter.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\mute.png
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Skins\Squared\skin.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\Settings.xml
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.CustomListView.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormOSD.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSettings.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Forms.FormSwitcher.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.LedBar.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Controls.VolumeBar.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.Properties.Resources.resources
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\bin\Debug\AudioSwitch.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\AudioSwitch\obj\x86\Debug\AudioSwitch.dll

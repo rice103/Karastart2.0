@@ -1,0 +1,6 @@
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\bin\Release\DragNDrop.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Release\ResolveAssemblyReference.cache
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Release\DragNDrop.DragAndDropListView.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Release\GenerateResource.read.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Release\GenerateResource.write.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\DragAndDropListView_src\obj\Release\DragNDrop.dll

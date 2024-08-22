@@ -1,0 +1,156 @@
+[translation]
+
+title = KaraStart
+menuStartedFile = Scaletta dei file avviati
+menuLanguage = Lingua
+menuExitProg=Esci
+menuSettings = Impostazioni
+menuHelp = Aiuto e Guida
+menuUnlock = Sblocca il programma
+menuAbout = Info riguardo KaraStart
+menuCheck= Controlla Aggiornamenti
+fileNameSelected = File selezionato
+ext = ext
+BackGroundMusic = Musica di Sottofondo
+PlayerAndStarter = Programmi per avviare i files selezionati
+Open = Apri
+InternalPlayer = Player interno
+4Mute = 4 Muta
+ShowFolderInExplorer = Apri le cartelle in Explorer
+Root = Root
+Playlist = Playliste
+Explorer = Explorer
+byName = per nome
+byLastMod = per ult. mod.
+Search = Cerca
+msgBoxErr = non esistono, assicurati che siano installati, o modifica il percorso del programma nelle impostazioni
+msgBoxMixer = Il mixer di sistema non si può aprire
+msgBoxRestart = Per rendere effettive le modifiche devi riavviare KaraStart
+msgBoxMaster = Per impostare il volume in 'Windows Vista' o 'Windows 7' è necessario lanciare un programma esterno. Quando verrà avviato la prima volta, seleziona 'non avvertire di nuovo quando il programma sarà di nuovo avviato' per non mostrarla sempre
+msgBoxClone = Vuoi clonare la stessa area dell'ultima volta?
+msgBoxClone1 = Posiziona il mouse nella parte alta a sinistra dell'area che vuoi clonare e premi invio
+msgBoxClone2 = Posiziona il mouse nella parte bassa a destra dell'area che vuoi clonare e premi invio
+msgBoxClone3 = Premi il tasto destro sopra la finestra clone per chiuderla
+msgBoxErrReading = Errore durante la lettura
+msgBoxSameFile = Vuoi mostrare nel clone gli stessi files (o lo stesso file) dell'ultima volta?
+msgBoxWithout = hai selezionato una cartella senza immagini, riprova
+msgBoxPlaylistDefault = Non puoi cancellare la playlista 'Default'!
+msgBoxPlaylistDeleted = sarà cancellata, sei sicuro?
+msgBoxPlaylistNotExist = Questa Playlista non esiste!
+msgBoxErr = E' accaduto un errore: 
+msgBoxErrWriting = Errore durante la scrittura
+msgBox3Command = Solo per le versioni trial, light or full puoi controllare più di 3 comandi!
+msgBoxFileDoesntExist=Il file specificato non esiste!
+
+inputBoxDur=Inserisci la durata del brano (mm:ss)
+InputBoxAnticipo=Inserisci l'anticipo con cui deve partire un brano rispetto alla fine del precedente (in secondi)
+
+StartWith=Avvia con
+MnuOpen=Apri il file
+mnuPlaylistMoveUp=Sposta in su
+mnuPlaylistMoveDown=Sposta in giù
+mnuPlaylistDelete=Cancella dalla playlist
+mnuPlaylistAddDown=Aggiungi alla playlist
+mnuExplorer=Apri percorso file
+mnuAutoUpdate=Aggiorna automaticamente
+mnuSupport=Sostieni Karastart con una donazione
+
+DiaTitle=Impara comando MIDI o tasto Key
+DiaExit=Esci
+DiaListen=Impara
+DiaCommand=Comando: 
+
+MidiInDev=Seleziona il dispositivo Midi IN
+MidiInDeleted=Tutti i comandi associati verranno cancellati, continuare?
+MidiOutDev=Seleziona il dispositivo Midi OUT
+
+AboutDescription=This application is designed to simplify the live performance of the composer and singer. This is a program which can launch other programs using the command line depending on the properties of each program. It can also display PDF files using dll that Adobe Reader is proprietary. All commands can be managed via MIDI commands sent from a MIDI device or can be started from your computer keyboard keys.
+AboutDisclaimer=Tutti i diritti sono riservati, i diritti dei nomi e delle icone dei programmi lanciati sono riservati ai produttori dei programmi stessi
+
+UnlockTitle=Sblocca KaraStart con una donazione
+UnlockCode=Codice di sblocco
+UnlockEnter=Inserisci il codice ricevuto e premi Invio
+UnlockCopy=Copia
+UnlockPaste=Incolla
+
+StartedTitle=Scaletta dei file avviati
+
+RapidTitle=Player Rapidi
+RapidPlay=(Player Rapido)
+
+SetRoot=Root per Explorer
+SetBack=Musica di sottofondo
+SetInit=Cartella iniziale nell'Explorer
+SetDirPath=Percorso
+SetDirName=Nome
+SetMIDI=Comandi MIDI e Key (formato: "Valore MIDI or Key":parametro)
+SetMidiIN=Dispositivo di Midi in:
+SetMidiOUT=Dispositivo di Midi out:
+SetAlways=Sempre in primo piano
+SetPosition=Posizione della finestra
+SetMainWinSize=Resetta le dimensioni della finestra principale
+SetPdfWinSize=Resetta le dimensioni del Pdf Scroller
+SetPrograms=Programmi
+SetNamePro=Nome:
+SetPathPro=Percorso:
+SetIconPro=File icona:
+SetAutoPro=Autoclone
+SetPDFAuto=Pdf AutoClone
+SetFiles=File
+SetNameFil=Nome:
+SetExtFil=Estensione: es.: mid
+SetProFil=Programmi collegati:
+SetAddFil=Aggiungi
+SetClose=Chiudi
+SetReset=Ripristina programmi e files predefiniti
+SetInputNameFOlder=Scegli il nome visualizzato per la cartella
+SetSubFolder=Vuoi includere nelle ricerche anche le sottocartelle?
+SetChkSub=Includi sottocartelle
+SetLblSub=Sottocartelle
+SetNamFolder=Nome
+SetPathFolder=Cartelle preferite
+
+whatsnew=Cosa c'è di nuovo in KaraStart
+
+UpErr=Errori nel download, vuoi continuare?
+UpDown=Vuoi aggiornare Karastart? (l'operazione potrebbe richiedere alcuni minuti)
+UpDing=Scaricando
+UpDo=è stato scaricato
+UpComplete=L'aggiornamento a Karastart è completato!
+UpLoad=Avviando KaraStart...
+UpErrWhile=Errore durante lo scaricamento
+
+
+menuCreateKst=Crea file combinati .kst
+kstCancFile=Cancella
+kstAggiFile=Aggiungi
+kstFileExt=File esterno
+kstVlcExt=File VLC esterno
+kstVanBasco=File VanBasco esterno
+kstMidiInt=File midi interno
+kstMp3Int=File mp3 interno
+kstPdfInt=File pdf interno
+kstChooseFile=Scegli file:
+kstChooseProg=Scegli il programma esterno (facoltativo):
+kstDelay=Ritardo in ms:
+kstCreaKst=Crea
+kstAnnullaKst=Annulla
+kstFormTitle=Creazione file combo
+kstVlcMute=Audio muto
+kstVlcAnticipo=Inizia al secondo: 
+kstMidiInterno4Mute=Traccia vocale muta
+kstMidiInternoTraspose=Traspose
+
+kstInternoRapidPos=Posizione nella lista rapid
+kstInternoRapidStart=Azione:avvio
+kstInternoRapidLoad=Azione:solo caricamento
+kstPdfInternoOffset=Offset (+/-)
+kstPdfInternoScrollVel=Vel. scorrimento
+kstPdfInternoZoom=Zoom
+kstPdfInternoLeft=Margine sinistro
+kstErrTest=Errore imprevisto durante il test
+KstInfoFile=Informazioni aggiuntive
+kstCmdTest=Prova
+kstDurataFile=Durata (hh:mm:ss)
+kstNomeFile=Inserisci il nome da generare
+kstChooseFolderKst=Scegli la cartella dove salvare il file

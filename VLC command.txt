@@ -1,0 +1,22 @@
+  --audio, --no-audio       Enable audio (default enabled)
+  --gain=1.000000           <float [0.000000 .. 8.000000]>
+  --qt-max-volume=200       <integer [60 .. 300]>(%)
+  --volume 400					<integer> sets the level of audio output (between 0 and 1024=255%)
+  
+   --width=<integer [-2147483648 .. 2147483647]>
+                                 Video width
+          You can enforce the video width. By default (-1) VLC will adapt to
+          the video characteristics.
+      --height=<integer [-2147483648 .. 2147483647]>
+                                 Video height
+          You can enforce the video height. By default (-1) VLC will adapt to
+          the video characteristics.
+      --video-x=<integer [-2147483648 .. 2147483647]>
+                                 Video X coordinate
+          You can enforce the position of the top left corner of the video
+          window (X coordinate).
+      --video-y=<integer [-2147483648 .. 2147483647]>
+	  
+	  
+	      ShellForRun Chr(34) & pathProgr_ & Chr(34), essSW_SHOWDEFAULT, Chr(34) & pathFile_ & Chr(34) & " " & Chr(34) & "--volume" & Chr(34) & " " & Chr(34) & Int(volu_ * 5.12) & Chr(34) & " " & Chr(34) & "--width=" & w & Chr(34) & " " & Chr(34) & "--height=" & h & Chr(34)
+	  ShellForRun Chr(34) & pathProgr_ & Chr(34), essSW_SHOWDEFAULT, Chr(34) & pathFile_ & Chr(34) & " " & Chr(34) & "--noaudio" & Chr(34) & " " & Chr(34) & "--width=" & w & Chr(34) & " " & Chr(34) & "--height=" & h & Chr(34)

@@ -1,0 +1,31 @@
+*RAMDISK
+*PROGRAMMI CON CUI AVVIARE
+*VLC CONTROL (larghezza video e posizione)
+*TROVA ANCHE FILE IN CARTELLE CON IL NOME INDICATO
+*SFUMARE SOTTOFONDO SU AVVIO
+*FILE KST
+*blocca ricerca su nuova ricerca
+*FOTO SU SCHERMO SECONDARIO
+*quando si cambia cartella del background non si resetta e continuano i brani di prima
+*mute vlc
+*menu su listview destra
+*DATABASE REPOSITORY
+  -volume generale assegnabile alla canzone
+  -programma con cui è stato avviato l'ultima volta
+  -voto della base
+  -numero di volte che è stato avviato
+  -ultimo avvio
+*TESTO SU SCHERMO SECONDARIO
+VIDEO SU SCHERMO SECONDARIO
+-avvio di cdg
+SCALETTA FILE AVVIATI
+CONTROLLO MIDI
+
+
+-installer per karastart
+-aggiornare su pagina web installer e dove scaricare i file delle dipendenze
+-con file combinati entrambi vlc ha messo noaudio ad entrambi
+-playlist problemi con gli accenti
+-ricerca due problemi:
+  -cerca cose più volte
+  -non si ferma su una nuova ricerca

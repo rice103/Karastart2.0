@@ -1,0 +1,3 @@
+brano appema spostato su listview sx non si sposta su o giù
+una playlis generata automaticamente con rank tutti a 0,0x e guid tutti a 0
+

@@ -1,0 +1,53 @@
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Default\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Default\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Default\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Default\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Small Glass\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Small Glass\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Small Glass\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Small Glass\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Ice\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Ice\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Ice\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Ice\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Ignition\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Ignition\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Ignition\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Ignition\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\ishom\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\ishom\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\ishom\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\ishom\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\PiX\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\PiX\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\PiX\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\PiX\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Squared\back.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Squared\meter.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Squared\mute.png
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Skins\Squared\skin.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Settings.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\App.config
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\KaraStart.exe.config
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\KaraStart.exe
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\AudioSwitch.exe
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\DragNDrop.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\JockerSoft.Media.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Midi.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\NAudio.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\Interop.DexterLib.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\NAudio.xml
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\ResolveAssemblyReference.cache
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.AboutBox1.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.KstForm.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.MailForm.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.MainForm.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.Properties.Resources.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.Catcher.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.SecondScreen.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.Settings.resources
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\GenerateResource.read.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\GenerateResource.write.1.tlog
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\obj\x86\Release\KaraStart.exe
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\AMS.Profile.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\Karastart 2\bin\Release\AMS.Profile.xml

@@ -1,0 +1,12 @@
+﻿<Window x:Class="SqlCePrivateInstallDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SQL Compact Private Deployment Demo 1.0.9" Height="350" Width="525" Loaded="Window_Loaded">
+
+    <!-- Source: http://blogs.msdn.com/b/stevelasker/archive/2008/10/22/privately-deploying-sql-server-compact-with-the-ado-net-entity-provider.aspx -->
+    <!-- See also: http://blogs.msdn.com/b/sqlservercompact/archive/2010/05/12/troubleshooting-problem-with-private-deployment-of-sql-server-compact-3-5sp2-entity-dll.aspx -->
+    
+    <Grid>
+        <ListBox Height="100" HorizontalAlignment="Left" Margin="52,42,0,0" Name="listBox1" VerticalAlignment="Top" Width="120" />
+    </Grid>
+</Window>

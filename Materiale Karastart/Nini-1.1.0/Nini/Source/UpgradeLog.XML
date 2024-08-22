@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Nini">
+</Property><Property Name="File di soluzione" Value="C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Nini.sln">
+</Property><Property Name="Date" Value="martedì 1 luglio 2014">
+</Property><Property Name="Time" Value="18:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Nini.sln" Description="File salvato come C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Nini.sln">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Nini.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Nini.csproj">
+</Event><Event ErrorLevel="0" Project="Nini" Source="AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\AliasText.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\AliasText.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\ArgvConfigSource.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\ArgvConfigSource.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\ConfigBase.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\ConfigBase.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\ConfigCollection.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\ConfigCollection.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\ConfigSourceBase.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\ConfigSourceBase.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\DotNetConfigSource.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\DotNetConfigSource.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\IConfig.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\IConfig.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\IConfigSource.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\IConfigSource.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\IniConfig.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\IniConfig.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\IniConfigSource.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\IniConfigSource.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\RegistryConfigSource.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\RegistryConfigSource.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Config\XmlConfigSource.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Config\XmlConfigSource.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Ini\IniDocument.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Ini\IniDocument.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Ini\IniException.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Ini\IniException.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Ini\IniItem.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Ini\IniItem.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Ini\IniReader.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Ini\IniReader.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Ini\IniSection.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Ini\IniSection.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Ini\IniSectionCollection.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Ini\IniSectionCollection.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Ini\IniWriter.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Ini\IniWriter.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Util\ArgvParser.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Util\ArgvParser.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Util\OrderedList.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Util\OrderedList.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Util\OrderedListEnumerator.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Util\OrderedListEnumerator.cs">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Nini.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="Nini" Source="Nini.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\NiniTest.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\NiniTest.csproj">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\AliasTextTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\AliasTextTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\ArgvConfigSourceTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\ArgvConfigSourceTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\ConfigBaseTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\ConfigBaseTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\ConfigCollectionTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\ConfigCollectionTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\ConfigSourceBaseTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\ConfigSourceBaseTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\DotNetConfigSourceTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\DotNetConfigSourceTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\IniConfigSourceTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\IniConfigSourceTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\RegistryConfigSourceTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\RegistryConfigSourceTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Config\XmlConfigSourceTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Config\XmlConfigSourceTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Ini\IniDocumentTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Ini\IniDocumentTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Ini\IniReaderTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Ini\IniReaderTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Ini\IniWriterTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Ini\IniWriterTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\Util\OrderedListTests.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\Nini-1.1.0\Nini\Source\Backup\Test\Util\OrderedListTests.cs">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\NiniTest.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="NiniTest" Source="Test\NiniTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Nini.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Nini.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Nini" Source="Nini.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event><Event ErrorLevel="0" Project="NiniTest" Source="Test\NiniTest.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

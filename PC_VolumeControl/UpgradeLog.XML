@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PC_VolumeControl">
+</Property><Property Name="File di soluzione" Value="C:\Users\Rice Cipriani\Downloads\PC_VolumeControl\PC_VolumeControl.sln">
+</Property><Property Name="Date" Value="martedì 1 luglio 2014">
+</Property><Property Name="Time" Value="09:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PC_VolumeControl.sln" Description="File salvato come C:\Users\Rice Cipriani\Downloads\PC_VolumeControl\Backup\PC_VolumeControl.sln">
+</Event><Event ErrorLevel="0" Project="PC_VolumeControl" Source="PC_VolumeControl\PC_VolumeControl.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\PC_VolumeControl\Backup\PC_VolumeControl\PC_VolumeControl.csproj">
+</Event><Event ErrorLevel="0" Project="PC_VolumeControl" Source="PC_VolumeControl\PCWin32.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\PC_VolumeControl\Backup\PC_VolumeControl\PCWin32.cs">
+</Event><Event ErrorLevel="0" Project="PC_VolumeControl" Source="PC_VolumeControl\VolumeConstants.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\PC_VolumeControl\Backup\PC_VolumeControl\VolumeConstants.cs">
+</Event><Event ErrorLevel="0" Project="PC_VolumeControl" Source="PC_VolumeControl\VolumeControl.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\PC_VolumeControl\Backup\PC_VolumeControl\VolumeControl.cs">
+</Event><Event ErrorLevel="0" Project="PC_VolumeControl" Source="PC_VolumeControl\Properties\AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\PC_VolumeControl\Backup\PC_VolumeControl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PC_VolumeControl" Source="PC_VolumeControl\VolumeStructs.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\PC_VolumeControl\Backup\PC_VolumeControl\VolumeStructs.cs">
+</Event><Event ErrorLevel="0" Project="PC_VolumeControl" Source="PC_VolumeControl\PC_VolumeControl.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="PC_VolumeControl" Source="PC_VolumeControl\PC_VolumeControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PC_VolumeControl.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="PC_VolumeControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PC_VolumeControl" Source="PC_VolumeControl\PC_VolumeControl.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

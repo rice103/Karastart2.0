@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VolumeControl">
+</Property><Property Name="File di soluzione" Value="C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl.sln">
+</Property><Property Name="File di opzioni utente" Value="C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl.suo">
+</Property><Property Name="Date" Value="martedì 1 luglio 2014">
+</Property><Property Name="Time" Value="10:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VolumeControl.sln" Description="File salvato come C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl.sln">
+</Event><Event ErrorLevel="0" Project="" Source="VolumeControl.suo" Description="File salvato come C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl.suo">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\VolumeControl.csproj" Description="Backup del file di progetto creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\VolumeControl.csproj">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Form1.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Form1.cs">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Form1.Designer.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Program.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Program.cs">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Properties\AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Properties\Resources.Designer.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Properties\Settings.Designer.cs" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Properties\Settings.settings" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Form1.resx" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Form1.resx">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\Properties\Resources.resx" Description="Backup del file creato con nome C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\Backup\VolumeControl\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\VolumeControl.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="VolumeControl" Source="VolumeControl\VolumeControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VolumeControl.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="VolumeControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VolumeControl" Source="VolumeControl\VolumeControl.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

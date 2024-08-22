@@ -1,0 +1,10 @@
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\bin\Debug\Test.exe
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\bin\Debug\Test.pdb
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\bin\Debug\JockerSoft.Media.dll
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\bin\Debug\Interop.DexterLib.dll
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\bin\Debug\JockerSoft.Media.pdb
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\obj\Debug\JockerSoft.Media.Form1.resources
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\obj\Debug\Test.exe
+C:\Users\Rice Cipriani\Downloads\extractframe_source\Test\obj\Debug\Test.pdb

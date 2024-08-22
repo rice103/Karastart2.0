@@ -1,0 +1,9 @@
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\bin\Debug\AutomaticGobbo.exe
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\bin\Debug\AutomaticGobbo.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\obj\x86\Debug\GobboManuale.MainForm.resources
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\obj\x86\Debug\AutomaticGobbo.exe
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\obj\x86\Debug\AutomaticGobbo.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\bin\Debug\NAudio.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\bin\Debug\NAudio.xml
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\obj\x86\Debug\AutomaticGobbo.csprojResolveAssemblyReference.cache
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\AutomaticGobbo\AutomaticGobbo\obj\x86\Debug\AutomaticGobbo.csproj.GenerateResource.Cache

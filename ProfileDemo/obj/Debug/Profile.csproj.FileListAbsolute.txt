@@ -1,0 +1,30 @@
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.pdb
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\obj\Debug\ResolveAssemblyReference.cache
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.dll
+K:\temp\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.pdb
+D:\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.dll
+D:\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.pdb
+D:\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.dll
+D:\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.pdb
+D:\Karastart 2.0\ProfileDemo\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.pdb
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.dll
+H:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.dll
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.pdb
+G:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.pdb
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.dll
+F:\Progetti sw\Karastart 2.0\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\bin\Debug\AMS.Profile.pdb
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.dll
+C:\Users\Rice Cipriani\Dropbox\Programmi fatti da me\Karastart 2.0\ProfileDemo\obj\Debug\AMS.Profile.pdb

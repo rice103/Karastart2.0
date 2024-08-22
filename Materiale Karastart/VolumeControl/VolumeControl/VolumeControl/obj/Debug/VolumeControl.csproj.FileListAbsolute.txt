@@ -1,0 +1,7 @@
+C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl\obj\Debug\VolumeControl.exe
+C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl\obj\Debug\VolumeControl.pdb
+C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl\bin\Debug\VolumeControl.exe
+C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl\bin\Debug\VolumeControl.pdb
+C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl\obj\Debug\VolumeControl.Form1.resources
+C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl\obj\Debug\VolumeControl.Properties.Resources.resources
+C:\Users\Rice Cipriani\Downloads\VolumeControl\VolumeControl\VolumeControl\obj\Debug\VolumeControl.csproj.GenerateResource.Cache

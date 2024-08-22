@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IgnoreErrors>false</IgnoreErrors>
+  <DefaultDataFlow>eRender</DefaultDataFlow>
+  <DefaultMultimediaAndComm>true</DefaultMultimediaAndComm>
+  <OSD Skin="Default" Left="61" Top="26" ClosingTimeout="1300" Transparency="255" />
+  <VolumeScroll Enabled="true" Key="LeftMouseButton" ShowOSD="true" />
+  <Hotkey Function="SwitchPlaybackDevice" ModifierKeys="Alt" HotKey="X" ShowOSD="true" />
+  <Hotkey Function="SwitchRecordingDevice" ModifierKeys="Alt" HotKey="Y" ShowOSD="true" />
+  <Hotkey Function="TogglePlaybackMute" ModifierKeys="Alt Win" HotKey="Left" ShowOSD="true" />
+  <Hotkey Function="ToggleRecordingMute" ModifierKeys="Alt Win" HotKey="Right" ShowOSD="true" />
+  <Hotkey Function="PlaybackVolumeUp" ModifierKeys="Alt Win" HotKey="Up" ShowOSD="true" />
+  <Hotkey Function="PlaybackVolumeDown" ModifierKeys="Alt Win" HotKey="Down" ShowOSD="true" />
+  <Hotkey Function="RecordingVolumeUp" ModifierKeys="None" HotKey="None" ShowOSD="false" />
+  <Hotkey Function="RecordingVolumeDown" ModifierKeys="None" HotKey="None" ShowOSD="false" />
+</Settings>
